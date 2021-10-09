@@ -1,6 +1,6 @@
 body {
     font-family: "open sans", sans-serif;
-}
+    }
 
 h1, h2, h3 {
     font-family: "lobster", cursive;
@@ -25,6 +25,7 @@ header h2 {
     background-image: linear-gradient(to right, #5637dd, #30465d, #60106b);
 }
 
+
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
@@ -46,5 +47,5 @@ a, a:hover {
 }
 
 .carousel {
-    border: solid #5637DD
+    border: solid #51791c;
 }
